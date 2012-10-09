@@ -7,5 +7,8 @@ public class HelloWorld {
 	public String goodBye(){
 		return "Goodbye";
 	}
+	public int sum(int x,int y){
+		return x+y;
+	}
 
 }
